@@ -367,7 +367,7 @@ section.section {
 }
 
 .nav>li>a {
-    padding-top: 40px;
+    padding-top: 30px;
    font-family: 'Lora', serif;
 	display: table-cell;
 	height: 100%;
@@ -381,10 +381,12 @@ section.section {
 }
 
 .nav>li>a:hover {
+    padding-top: 23px;
    box-sizing:border-box;
 	-webkit-border-radius:50%;
 		-moz-border-radius:50%;
-			border-radius:50%;	
+			border-radius:50%;
+    border-radius: 25px 55px;
     color: #fff;
 	background: #222;
 }
