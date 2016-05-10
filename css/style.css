@@ -367,6 +367,7 @@ section.section {
 }
 
 .nav>li>a {
+    padding-top: 40px;
    font-family: 'Lora', serif;
 	display: table-cell;
 	height: 100%;
@@ -384,7 +385,6 @@ section.section {
 	-webkit-border-radius:50%;
 		-moz-border-radius:50%;
 			border-radius:50%;	
-      border-radius: 25px;
     color: #fff;
 	background: #222;
 }
