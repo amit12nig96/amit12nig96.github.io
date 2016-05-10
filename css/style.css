@@ -381,6 +381,7 @@ section.section {
 }
 
 .nav>li>a:hover {
+    padding-top: 20px;
     box-sizing: padding-box;
     border-radius: 100px;
     color: #fff;
