@@ -380,8 +380,11 @@ section.section {
 }
 
 .nav>li>a:hover {
-    box-sizing:inherit;
-    border-radius: 30px;
+   box-sizing:border-box;
+	-webkit-border-radius:50%;
+		-moz-border-radius:50%;
+			border-radius:50%;	
+      border-radius: 25px;
     color: #fff;
 	background: #222;
 }
