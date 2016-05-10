@@ -381,7 +381,7 @@ section.section {
 
 .nav>li>a:hover {
     box-sizing:inherit;
-    border-radius: 100px;
+    border-radius: 30px;
     color: #fff;
 	background: #222;
 }
