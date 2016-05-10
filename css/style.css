@@ -367,6 +367,7 @@ section.section {
 }
 
 .nav>li>a {
+    padding-top: 25px;
    font-family: 'Lora', serif;
 	display: table-cell;
 	height: 100%;
