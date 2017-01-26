@@ -449,13 +449,13 @@ h1 a.navbar-brand {
 }
 
 section.featured {
-   font-family: 'Niconne', cursive;
+   font-family: "Times New Roman", Georgia, Serif;
 	padding: 150px 0 60px;
 	background: #222;  /* ----welcome div bg color---*/
-	color: #801209;
+	color: mintcream;
     font-size:25px;
     font-weight: 900;
-    text-shadow: 0px .5px #fff;
+    text-shadow: 0px .5px gray;
     
      
 }
